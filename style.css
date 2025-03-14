@@ -1,3 +1,15 @@
 body {
-    background-color: aliceblue;
+    background-color: purple;
+    background-image: url(https://media.istockphoto.com/id/1403057774/hu/vektor/sz%C3%ADn%C3%A1tmenetes-h%C3%A1tt%C3%A9r-narancss%C3%A1rga-r%C3%B3zsasz%C3%ADn-%C3%A9s-lila-sz%C3%ADnek-sziv%C3%A1rv%C3%A1ny-sz%C3%ADnek-b%C3%ADbor-s%C3%A1rga-%C3%A9s.jpg?s=612x612&w=0&k=20&c=mVkJjedovoxUghuYZVMPq6P1cJSnc6HuQtQvHKZWp_U=);
+filter: blur(20px);
+}
+
+.logo { text-align: center;
+width: 100px;
+height: 400px;
+    }
+
+    form {
+        text-align: center;
+        align-self: center;
     }
